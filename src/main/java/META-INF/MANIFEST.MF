@@ -1,0 +1,104 @@
+Manifest-Version: 1.0
+Class-Path: osgi-resource-locator-1.0.1.jar spark-launcher_2.11-2.4.0-
+ cdh6.3.2.jar tephra-core-0.14.0-incubating.jar aopalliance-1.0.jar ja
+ mon-runtime-2.4.1.jar kerb-simplekdc-1.0.0.jar libthrift-0.9.3-1.jar 
+ jersey-core-1.19.jar HikariCP-2.6.1.jar snappy-java-1.1.4.jar spark-n
+ etwork-shuffle_2.11-2.4.0-cdh6.3.2.jar arrow-memory-0.10.0.jar jackso
+ n-module-paranamer-2.9.9.jar jackson-annotations-2.9.9.jar hadoop-map
+ reduce-client-jobclient-3.0.0-cdh6.3.2.jar avro-mapred-1.8.2-cdh6.3.2
+ -hadoop2.jar hbase-zookeeper-2.1.0-cdh6.3.2.jar xz-1.6.jar spark-sket
+ ch_2.11-2.4.0-cdh6.3.2.jar unused-1.0.0.jar httpclient-4.5.3.jar hk2-
+ api-2.4.0-b34.jar kerby-asn1-1.0.0.jar hbase-replication-2.1.0-cdh6.3
+ .2.jar jodd-core-3.5.2.jar jersey-server-2.22.2.jar hadoop-annotation
+ s-3.0.0-cdh6.3.2.jar derby-10.14.1.0.jar RoaringBitmap-0.5.11.jar jet
+ ty-server-9.3.25.v20180904.jar jackson-jaxrs-json-provider-2.9.9.jar 
+ commons-cli-1.4.jar chill-java-0.9.3.jar datanucleus-api-jdo-4.2.1.ja
+ r jcl-over-slf4j-1.7.25.jar arrow-vector-0.10.0.jar chill_2.11-0.9.3.
+ jar tephra-hbase-compat-2.0-0.14.0-incubating.jar hbase-protocol-2.1.
+ 0-cdh6.3.2.jar icu4j-60.2.jar phoenix-core-5.0.0-HBase-2.0.jar log4j-
+ slf4j-impl-2.11.0.jar objenesis-2.5.1.jar findbugs-annotations-1.3.9-
+ 1.jar jetty-xml-9.3.25.v20180904.jar htrace-core-3.1.0-incubating.jar
+  ST4-4.0.4.jar jetty-security-9.3.19.v20170502.jar kerb-common-1.0.0.
+ jar metrics-core-3.1.5.jar pyrolite-4.13.jar shc-core-1.1.3-2.4-s_2.1
+ 1.jar datanucleus-core-4.1.6.jar hbase-shaded-protobuf-2.2.1.jar hbas
+ e-common-2.1.0-cdh6.3.2.jar jsr305-1.3.9.jar parquet-column-1.9.0-cdh
+ 6.3.2.jar flatbuffers-1.2.0-3f79e055.jar avatica-1.12.0.jar scala-lib
+ rary-2.11.12.jar antlr-runtime-3.5.2.jar spark-unsafe_2.11-2.4.0-cdh6
+ .3.2.jar py4j-0.10.7.jar aggdesigner-algorithm-6.0.jar slf4j-simple-1
+ .7.25.jar twill-zookeeper-0.6.0-incubating.jar jetty-http-9.3.19.v201
+ 70502.jar hbase-hadoop-compat-2.1.0-cdh6.3.2.jar tephra-hbase-compat-
+ 1.0-0.6.0.jar jackson-module-jaxb-annotations-2.9.9.jar jaxb-api-2.2.
+ 11.jar hadoop-common-3.0.0-cdh6.3.2.jar metrics-graphite-3.1.5.jar ha
+ doop-mapreduce-client-core-3.0.0-cdh6.3.2.jar kerb-util-1.0.0.jar twi
+ ll-discovery-core-0.6.0-incubating.jar kerby-util-1.0.0.jar sqlline-1
+ .2.0.jar httpcore-4.4.6.jar calcite-druid-1.12.0.jar hppc-0.7.2.jar h
+ base-client-2.1.0-cdh6.3.2.jar javax.activation-api-1.2.0.jar netty-3
+ .10.6.Final.jar audience-annotations-0.5.0.jar kerb-crypto-1.0.0.jar 
+ javassist-3.18.1-GA.jar hbase-metrics-api-2.1.0-cdh6.3.2.jar tephra-a
+ pi-0.6.0.jar janino-3.0.9.jar commons-beanutils-1.9.4.jar hbase-mapre
+ duce-2.1.0-cdh6.3.2.jar tephra-core-0.6.0.jar jsp-api-2.1.jar hbase-p
+ rotocol-shaded-2.1.0-cdh6.3.2.jar json4s-ast_2.11-3.5.3.jar jetty-uti
+ l-9.3.25.v20180904.jar jersey-servlet-1.19.jar avro-ipc-1.8.2-cdh6.3.
+ 2.jar guice-3.0.jar jcip-annotations-1.0-1.jar minlog-1.3.0.jar jcodi
+ ngs-1.0.18.jar hbase-metrics-2.1.0-cdh6.3.2.jar zookeeper-3.4.5-cdh6.
+ 3.2.jar hbase-shaded-miscellaneous-2.2.1.jar kerb-core-1.0.0.jar ivy-
+ 2.4.0.jar hbase-annotations-2.0.0.jar jackson-mapper-asl-1.9.13-cloud
+ era.1.jar jersey-client-2.22.2.jar jackson-core-asl-1.9.13.jar arrow-
+ format-0.10.0.jar spark-sql_2.11-2.4.0-cdh6.3.2.jar activation-1.1.1.
+ jar javax.inject-1.jar jul-to-slf4j-1.7.25.jar jackson-databind-2.9.9
+ .jar oro-2.0.8.jar jetty-webapp-9.3.25.v20180904.jar leveldbjni-all-1
+ .8.jar jta-1.1.jar scala-xml_2.11-1.0.6.jar javax.servlet-api-3.1.0.j
+ ar transaction-api-1.1.jar commons-dbcp-1.4.jar scala-reflect-2.11.12
+ .jar jdo-api-3.0.1.jar i18n-util-1.0.4.jar jersey-common-2.22.2.jar j
+ son4s-jackson_2.11-3.5.3.jar validation-api-1.1.0.Final.jar calcite-l
+ inq4j-1.12.0.jar json4s-scalap_2.11-3.5.3.jar hbase-server-2.1.0-cdh6
+ .3.2.jar tephra-api-0.14.0-incubating.jar libfb303-0.9.3.jar hbase-sh
+ aded-netty-2.2.1.jar kerb-client-1.0.0.jar bonecp-0.8.0.RELEASE.jar j
+ ackson-core-2.9.9.jar javax.jdo-3.2.0-m3.jar commons-math3-3.4.1.jar 
+ jersey-container-servlet-2.22.2.jar kerby-xdr-1.0.0.jar jackson-modul
+ e-scala_2.11-2.9.9.jar log4j-1.2.17.jar slf4j-log4j12-1.7.25.jar htra
+ ce-core4-4.2.0-incubating.jar javax.servlet.jsp-2.3.2.jar joda-time-2
+ .9.9.jar hbase-procedure-2.1.0-cdh6.3.2.jar twill-common-0.6.0-incuba
+ ting.jar nimbus-jose-jwt-4.41.1.jar scala-parser-combinators_2.11-1.1
+ .0.jar twill-api-0.6.0-incubating.jar mysql-connector-java-5.1.49.jar
+  jetty-io-9.3.25.v20180904.jar curator-recipes-2.7.1.jar jersey-clien
+ t-1.19.jar jetty-util-ajax-9.3.25.v20180904.jar jersey-guava-2.22.2.j
+ ar hive-exec-2.1.1-cdh6.3.2.jar commons-csv-1.0.jar javax.ws.rs-api-2
+ .0.1.jar hadoop-auth-3.0.0-cdh6.3.2.jar kryo-shaded-4.0.2.jar guice-a
+ ssistedinject-3.0.jar jackson-jaxrs-base-2.9.9.jar javax.annotation-a
+ pi-1.2.jar lz4-java-1.4.0.jar gson-2.2.4.jar kerby-pkix-1.0.0.jar twi
+ ll-core-0.6.0-incubating.jar disruptor-3.3.6.jar kerb-identity-1.0.0.
+ jar aopalliance-repackaged-2.4.0-b34.jar hadoop-yarn-common-3.0.0-cdh
+ 6.3.2.jar hadoop-hdfs-3.0.0-cdh6.3.2.jar woodstox-core-5.0.3.jar kerb
+ -server-1.0.0.jar hive-metastore-2.1.1-cdh6.3.2.jar hbase-hadoop2-com
+ pat-2.1.0-cdh6.3.2.jar log4j-api-2.11.0.jar univocity-parsers-2.7.3.j
+ ar datanucleus-rdbms-4.1.7.jar avro-1.8.2-cdh6.3.2.jar commons-compil
+ er-3.0.9.jar javax.el-3.0.1-b12.jar jsr311-api-1.1.1.jar protobuf-jav
+ a-2.5.0.jar re2j-1.1.jar compress-lzf-1.0.3.jar hadoop-distcp-3.0.0-c
+ dh6.3.2.jar curator-framework-2.7.1.jar commons-configuration2-2.1.1.
+ jar jline-2.11.jar hadoop-yarn-api-3.0.0-cdh6.3.2.jar icu4j-localespi
+ -60.2.jar commons-compress-1.18.jar commons-codec-1.10.jar hk2-utils-
+ 2.4.0-b34.jar commons-daemon-1.0.13.jar spark-tags_2.11-2.4.0-cdh6.3.
+ 2.jar logredactor-2.0.7.jar commons-lang-2.6.jar spark-network-common
+ _2.11-2.4.0-cdh6.3.2.jar hbase-http-2.1.0-cdh6.3.2.jar snappy-0.3.jar
+  twill-discovery-api-0.6.0-incubating.jar paranamer-2.8.jar joni-2.1.
+ 11.jar jersey-media-jaxb-2.22.2.jar hadoop-yarn-client-3.0.0-cdh6.3.2
+ .jar kerby-config-1.0.0.jar stax-api-1.0.1.jar log4j-web-2.11.0.jar c
+ ommons-logging-1.2.jar javolution-5.5.1.jar xbean-asm7-shaded-4.12.ja
+ r curator-client-2.12.0.jar jersey-container-servlet-core-2.22.2.jar 
+ spark-kvstore_2.11-2.4.0-cdh6.3.2.jar parquet-hadoop-1.9.0-cdh6.3.2.j
+ ar commons-pool-1.5.4.jar okhttp-2.7.5.jar calcite-core-1.12.0.jar gu
+ ava-16.0.1.jar stream-2.7.0.jar commons-net-3.1.jar javax.servlet.jsp
+ -api-2.3.1.jar json4s-core_2.11-3.5.3.jar spark-hive_2.11-2.4.0-cdh6.
+ 3.2.jar spark-catalyst_2.11-2.4.0-cdh6.3.2.jar kerb-admin-1.0.0.jar o
+ kio-1.6.0.jar antlr4-runtime-4.7.jar spark-core_2.11-2.4.0-cdh6.3.2.j
+ ar metrics-json-3.1.5.jar slf4j-api-1.7.25.jar icu4j-charset-60.2.jar
+  log4j-core-2.11.0.jar metrics-jvm-3.1.5.jar hadoop-hdfs-client-3.0.0
+ -cdh6.3.2.jar commons-lang3-3.7.jar netty-all-4.1.17.Final.jar stax2-
+ api-3.1.4.jar error_prone_annotations-2.3.3.jar commons-io-2.5.jar ha
+ doop-client-3.0.0-cdh6.3.2.jar zstd-jni-1.3.2-2.jar javax.inject-2.4.
+ 0-b34.jar hk2-locator-2.4.0-b34.jar hadoop-mapreduce-client-common-3.
+ 0.0-cdh6.3.2.jar fastutil-6.5.6.jar commons-collections-3.2.2.jar com
+ mons-crypto-1.0.0.jar jetty-servlet-9.3.25.v20180904.jar
+Main-Class: MySQL2HBase
+

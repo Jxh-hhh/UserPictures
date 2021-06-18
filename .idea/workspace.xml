@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sparktest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a1c8481-7c98-4d5b-867a-9e313ddc4c12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sparktest_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserPictures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/HikariCP-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/RoaringBitmap-0.5.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/ST4-4.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/activation-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/aggdesigner-algorithm-6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/antlr-runtime-3.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/antlr4-runtime-4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/aopalliance-repackaged-2.4.0-b34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/arrow-format-0.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/arrow-memory-0.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/arrow-vector-0.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/audience-annotations-0.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/avatica-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/avro-1.8.2-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/avro-ipc-1.8.2-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/avro-mapred-1.8.2-cdh6.3.2-hadoop2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/bonecp-0.8.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/calcite-core-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/calcite-druid-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/calcite-linq4j-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/chill-java-0.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/chill_2.11-0.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-cli-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-compiler-3.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-compress-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-configuration2-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-crypto-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-csv-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-daemon-1.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-lang3-3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-math3-3.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-net-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/commons-pool-1.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/compress-lzf-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/curator-client-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/curator-framework-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/curator-recipes-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/datanucleus-api-jdo-4.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/datanucleus-core-4.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/datanucleus-rdbms-4.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/derby-10.14.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/disruptor-3.3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/error_prone_annotations-2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/fastutil-6.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/findbugs-annotations-1.3.9-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/flatbuffers-1.2.0-3f79e055.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/guava-16.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/guice-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/guice-assistedinject-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-annotations-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-auth-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-client-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-common-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-distcp-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-hdfs-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-hdfs-client-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-mapreduce-client-common-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-mapreduce-client-core-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-mapreduce-client-jobclient-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-yarn-api-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-yarn-client-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hadoop-yarn-common-3.0.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-annotations-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-client-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-common-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-hadoop-compat-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-hadoop2-compat-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-http-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-mapreduce-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-metrics-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-metrics-api-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-procedure-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-protocol-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-protocol-shaded-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-replication-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-server-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-shaded-miscellaneous-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-shaded-netty-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-shaded-protobuf-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hbase-zookeeper-2.1.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hive-exec-2.1.1-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hive-metastore-2.1.1-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hk2-api-2.4.0-b34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hk2-locator-2.4.0-b34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hk2-utils-2.4.0-b34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/hppc-0.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/htrace-core-3.1.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/htrace-core4-4.2.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/httpclient-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/httpcore-4.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/i18n-util-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/icu4j-60.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/icu4j-charset-60.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/icu4j-localespi-60.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/ivy-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-annotations-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-core-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-databind-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-jaxrs-base-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-jaxrs-json-provider-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-mapper-asl-1.9.13-cloudera.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-module-jaxb-annotations-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-module-paranamer-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jackson-module-scala_2.11-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jamon-runtime-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/janino-3.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.annotation-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.el-3.0.1-b12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.inject-2.4.0-b34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.jdo-3.2.0-m3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.servlet.jsp-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.servlet.jsp-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javax.ws.rs-api-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/javolution-5.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jaxb-api-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jcip-annotations-1.0-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jcodings-1.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jdo-api-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-client-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-client-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-common-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-container-servlet-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-container-servlet-core-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-core-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-guava-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-media-jaxb-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-server-2.22.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jersey-servlet-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-http-9.3.19.v20170502.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-io-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-security-9.3.19.v20170502.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-server-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-servlet-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-util-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-util-ajax-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-webapp-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jetty-xml-9.3.25.v20180904.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jline-2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/joda-time-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jodd-core-3.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/joni-2.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/json4s-ast_2.11-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/json4s-core_2.11-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/json4s-jackson_2.11-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/json4s-scalap_2.11-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jsr305-1.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jsr311-api-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-admin-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-client-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-common-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-core-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-crypto-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-identity-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-server-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-simplekdc-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerb-util-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerby-asn1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerby-config-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerby-pkix-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerby-util-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kerby-xdr-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/kryo-shaded-4.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/leveldbjni-all-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/libfb303-0.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/libthrift-0.9.3-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/log4j-api-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/log4j-core-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/log4j-slf4j-impl-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/log4j-web-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/logredactor-2.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/lz4-java-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/metrics-core-3.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/metrics-graphite-3.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/metrics-json-3.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/metrics-jvm-3.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/minlog-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/mysql-connector-java-5.1.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/netty-3.10.6.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/netty-all-4.1.17.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/nimbus-jose-jwt-4.41.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/objenesis-2.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/okhttp-2.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/okio-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/oro-2.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/osgi-resource-locator-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/paranamer-2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/parquet-column-1.9.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/parquet-hadoop-1.9.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/phoenix-core-5.0.0-HBase-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/protobuf-java-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/py4j-0.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/pyrolite-4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/re2j-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/scala-library-2.11.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/scala-parser-combinators_2.11-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/scala-reflect-2.11.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/scala-xml_2.11-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/shc-core-1.1.3-2.4-s_2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/slf4j-simple-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/snappy-0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/snappy-java-1.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-catalyst_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-core_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-hive_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-kvstore_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-launcher_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-network-common_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-network-shuffle_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-sketch_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-sql_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-tags_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/spark-unsafe_2.11-2.4.0-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/sparktest.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/sqlline-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/stream-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/tephra-api-0.14.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/tephra-api-0.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/tephra-core-0.14.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/tephra-core-0.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/tephra-hbase-compat-1.0-0.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/tephra-hbase-compat-2.0-0.14.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/transaction-api-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/twill-api-0.6.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/twill-common-0.6.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/twill-core-0.6.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/twill-discovery-api-0.6.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/twill-discovery-core-0.6.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/twill-zookeeper-0.6.0-incubating.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/univocity-parsers-2.7.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/unused-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/woodstox-core-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/xbean-asm7-shaded-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/xz-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/zookeeper-3.4.5-cdh6.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sparktest_jar/zstd-jni-1.3.2-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/NianlingduanModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingbieModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/sparktest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/suncaper/Draw$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/suncaper/Draw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/suncaper/model/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/suncaper/model/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingbieModel.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+              <folding>
+                <element signature="e#22#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/NianlingduanModel.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/1.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/firework.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TaxiAnalysisDriver.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/parser/TaxiTripParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/GeoJson.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/geometry/RichGeometry.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/geometry/GeoJson.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/TaxiAnalysisDriver.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/test.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/MySQL2HBase.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/model/ss.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/net/suncaper/model/test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/UserFeatures/XingbieModel.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingbieModel.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sparktest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sparktest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sparktest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparktest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparktest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparktest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparktest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparktest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\sparktest\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\sparktest\src\main\resources" />
+      <recent name="D:\ideaProject\sparktest\src\datasets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="GenderModel" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="net.suncaper.model.GenderModel" />
+      <module name="UserPictures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.suncaper.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkDemo" />
+      <module name="UserPictures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxiAnalysisDriver" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="net.suncaper.TaxiAnalysisDriver" />
+      <module name="UserPictures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firework" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="firework" />
+      <module name="UserPictures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="net.suncaper.model.test" />
+      <module name="UserPictures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.suncaper.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="UserPictures" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="UserPictures" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.GenderModel" />
+        <item itemvalue="Application.TaxiAnalysisDriver" />
+        <item itemvalue="Application.firework" />
+        <item itemvalue="Application.SparkDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a1c8481-7c98-4d5b-867a-9e313ddc4c12" name="Default Changelist" comment="" />
+      <created>1623311419477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623311419477</updated>
+      <workItem from="1623311423422" duration="3339000" />
+      <workItem from="1623315448038" duration="531000" />
+      <workItem from="1623370238670" duration="22265000" />
+      <workItem from="1623545713982" duration="661000" />
+      <workItem from="1623638238279" duration="2978000" />
+      <workItem from="1623661077926" duration="2371000" />
+      <workItem from="1623663592272" duration="819000" />
+      <workItem from="1623888665391" duration="1978000" />
+      <workItem from="1623892148069" duration="185000" />
+      <workItem from="1623892572642" duration="4573000" />
+      <workItem from="1623907369019" duration="505000" />
+      <workItem from="1623908386779" duration="1961000" />
+      <workItem from="1623974992734" duration="5569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47735000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1391258" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/datasets/BeijingPM20100101_20151231.csv" />
+    <entry file="file://$PROJECT_DIR$/src/datasets/sf-fire-calls.txt" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar!/org/apache/spark/sql/Column.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar!/org/apache/spark/sql/Dataset.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar!/org/apache/spark/sql/RelationalGroupedDataset.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar!/org/apache/spark/sql/functions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="296" column="16" selection-start-line="296" selection-start-column="6" selection-end-line="296" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasets/blogs.txt" />
+    <entry file="file://$PROJECT_DIR$/src/datasets/trip_data.csv" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkDemo.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TaxiAnalysisDriver.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/GeoJson/scala.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/nyc-boroughs.geojson" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/firework.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/geometry/RichGeometry.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/geometry/GeoJson.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/parser/TaxiTripParser.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/TaxiAnalysisDriver.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/test.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/MySQL2HBase.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/Draw.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/model/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#28#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingbieModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+          <folding>
+            <element signature="e#22#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/NianlingduanModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sparktest:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sparktest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.carrotsearch:hppc:0.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

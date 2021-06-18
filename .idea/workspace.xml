@@ -7,6 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a1c8481-7c98-4d5b-867a-9e313ddc4c12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/UserPictures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/GenderModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/JobModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/MarriageModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/PeopleGender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/PoliticsModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/RegionModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingZuoModel.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="400">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -34,11 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingbieModel.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="1000">
               <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
-              <folding>
-                <element signature="e#22#75#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -46,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/NianlingduanModel.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
+            <state relative-caret-position="50">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
@@ -107,17 +114,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
+    <option name="x" value="88" />
+    <option name="y" value="12" />
+    <option name="width" value="1670" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -126,29 +126,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="sparktest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparktest" type="462c0819:PsiDirectoryNode" />
+              <item name="UserPictures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPictures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sparktest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparktest" type="462c0819:PsiDirectoryNode" />
+              <item name="UserPictures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPictures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sparktest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparktest" type="462c0819:PsiDirectoryNode" />
+              <item name="UserPictures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPictures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserPictures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPictures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserPictures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPictures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="UserFeaturesModel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -313,6 +328,7 @@
       <workItem from="1623907369019" duration="505000" />
       <workItem from="1623908386779" duration="1961000" />
       <workItem from="1623974992734" duration="5842000" />
+      <workItem from="1623989734934" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传所有项目">
       <created>1623985156283</created>
@@ -325,12 +341,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48008000" />
+    <option name="totallyTimeSpent" value="48309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -418,49 +434,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/core-site.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/Draw.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/Draw.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/model/test.scala" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="400">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/net/suncaper/model/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#28#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/XingbieModel.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="1000">
           <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
-          <folding>
-            <element signature="e#22#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/UserFeaturesModel/NianlingduanModel.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="50">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
